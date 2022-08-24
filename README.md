@@ -1,4 +1,4 @@
-<head> <div align="center"> <title> Hi there I'm Fellipe, welcome to my github profile! </title> </div> </head>
+<div align="center"> Hi there I'm Fellipe, welcome to my github profile!  </div>
 
 <div align="center">
   <a href="https://github.com/FellipeAltran">
