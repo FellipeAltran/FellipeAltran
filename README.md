@@ -1,4 +1,4 @@
-Hi there I'm Fellipe, welcome to my github profile!
+<div align="center"> Hi there I'm Fellipe, welcome to my github profile! </div>
 
 <div align="center">
   <a href="https://github.com/FellipeAltran">
